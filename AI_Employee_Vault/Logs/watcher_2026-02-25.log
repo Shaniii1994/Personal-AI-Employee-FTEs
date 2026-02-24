@@ -1,0 +1,19 @@
+2026-02-25 02:32:18,781 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:32:18,781 - FileSystemWatcher - INFO - Mode: event-driven
+2026-02-25 02:32:18,782 - FileSystemWatcher - INFO - Starting FileSystemWatcher (event-driven mode)
+2026-02-25 02:32:18,782 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:32:18,784 - FileSystemWatcher - INFO - Watching: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:32:18,792 - FileSystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-02-25 02:33:34,606 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-02-25 02:33:34,609 - FileSystemWatcher - INFO - FileSystemWatcher shutdown complete
+2026-02-25 02:34:53,476 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:34:53,476 - FileSystemWatcher - INFO - Mode: event-driven
+2026-02-25 02:34:53,476 - FileSystemWatcher - INFO - Starting FileSystemWatcher (event-driven mode)
+2026-02-25 02:34:53,476 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:34:53,478 - FileSystemWatcher - INFO - Watching: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:34:53,478 - FileSystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-02-25 02:36:07,102 - FileSystemWatcher - INFO - File created: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox\test.txt
+2026-02-25 02:36:07,209 - FileSystemWatcher - INFO - Created action file: FILEDROP_test.txt_20260225_023607.md
+2026-02-25 02:36:07,210 - FileSystemWatcher - INFO - Processed file: test.txt -> FILEDROP_test.txt_20260225_023607.md
+2026-02-25 02:40:21,208 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-02-25 02:40:21,212 - FileSystemWatcher - INFO - FileSystemWatcher shutdown complete

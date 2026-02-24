@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "4e2a1520d1d92246",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b8aa6068af8c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2f8b123ff7a668d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f240f63c4b5246e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bd1bd87298d254f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e51ee525c504a3ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "acaa3d91582c494b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8040f6c5ce271519",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54dc7194635aeb10",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80a97f19dc338e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a8cc809345c64c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI_Employee_Vault/Company_Handbook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Company_Handbook"
+            }
+          },
+          {
+            "id": "950c48e599322b14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI_Employee_Vault/Company_Handbook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Company_Handbook"
+            }
+          },
+          {
+            "id": "e782a17827ebb3ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4fd1c36986c003f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ecff5a763a6af006",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI_Employee_Vault/Company_Handbook.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Company_Handbook"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e2f8b123ff7a668d",
+  "lastOpenFiles": [
+    "AI_Employee_Vault/Needs_Action/FILEDROP_test.txt_20260225_023607.md",
+    "AI_Employee_Vault/skills/filesystem-watcher/SKILL.md",
+    "AI_Employee_Vault/Needs_Action/FILEDROP_test.txt_20260225_023607.txt",
+    "AI_Employee_Vault/Inbox/test.txt",
+    "AI_Employee_Vault/watchers/Inbox/test.txt",
+    "AI_Employee_Vault/Logs/watcher_2026-02-25.log",
+    "AI_Employee_Vault/watchers/processed_state.json",
+    "AI_Employee_Vault/watchers/Inbox/test.md",
+    "AI_Employee_Vault/watchers/Inbox",
+    "AI_Employee_Vault/watchers/Needs_Action",
+    "AI_Employee_Vault/watchers/Logs/watcher_2026-02-25.log",
+    "AI_Employee_Vault/watchers/Logs",
+    "AI_Employee_Vault/watchers/__pycache__/base_watcher.cpython-314.pyc",
+    "test.md",
+    "AI_Employee_Vault/HOW_TO_VERIFY.md",
+    "AI_Employee_Vault/watchers/Inbox/test_file.md",
+    "AI_Employee_Vault/Inbox/test_file.md",
+    "AI_Employee_Vault/Needs_Action/FILEDROP_test_file4_race_fix.txt_20260225_005812.md",
+    "AI_Employee_Vault/Needs_Action/FILEDROP_test_file3_after_restart.txt_20260225_005630.md",
+    "AI_Employee_Vault/Needs_Action/FILEDROP_test_file2.txt_20260225_005104.md",
+    "QWEN.md",
+    "AI_Employee_Vault/watchers/Needs_Action/FILEDROP_test_document.txt_20260225_010839.md",
+    "AI_Employee_Vault/Dashboard.md",
+    "AI_Employee_Vault/TEST_REPORT.md",
+    "test_file.md"
+  ]
+}
