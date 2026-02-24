@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6b8aa6068af8c80",
+        "id": "57ec77e38af1f4c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f8b123ff7a668d",
+            "id": "706a91b784d5b1a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI_Employee_Vault/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dashboard"
             }
           }
         ]
@@ -179,21 +183,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2f8b123ff7a668d",
+  "active": "706a91b784d5b1a9",
   "lastOpenFiles": [
+    "AI_Employee_Vault/Needs_Action/FILEDROP_test-2.txt_20260225_030318.md",
+    "AI_Employee_Vault/Needs_Action/FILEDROP_test-2.txt_20260225_030318.txt",
+    "AI_Employee_Vault/Inbox/test-2.txt",
+    "test-2.txt",
+    "AI_Employee_Vault/watchers/__pycache__/base_watcher.cpython-314.pyc",
+    "AI_Employee_Vault/watchers/__pycache__",
+    "AI_Employee_Vault/Done/FILEDROP_test-2.txt_20260225_025007.txt",
+    "AI_Employee_Vault/Done/FILEDROP_test-2.txt_20260225_025007.md",
+    "AI_Employee_Vault/Done/FILEDROP_test.txt_20260225_023607.txt",
+    "AI_Employee_Vault/Done/FILEDROP_test.txt_20260225_023607.md",
+    "AI_Employee_Vault/Needs_Action/FILEDROP_test-2.txt_20260225_025007.md",
+    "AI_Employee_Vault/Dashboard.md",
+    "AI_Employee_Vault/Needs_Action/FILEDROP_test-2.txt_20260225_025007.txt",
     "AI_Employee_Vault/Needs_Action/FILEDROP_test.txt_20260225_023607.md",
     "AI_Employee_Vault/skills/filesystem-watcher/SKILL.md",
     "AI_Employee_Vault/Needs_Action/FILEDROP_test.txt_20260225_023607.txt",
     "AI_Employee_Vault/Inbox/test.txt",
-    "AI_Employee_Vault/watchers/Inbox/test.txt",
-    "AI_Employee_Vault/Logs/watcher_2026-02-25.log",
-    "AI_Employee_Vault/watchers/processed_state.json",
     "AI_Employee_Vault/watchers/Inbox/test.md",
-    "AI_Employee_Vault/watchers/Inbox",
-    "AI_Employee_Vault/watchers/Needs_Action",
-    "AI_Employee_Vault/watchers/Logs/watcher_2026-02-25.log",
-    "AI_Employee_Vault/watchers/Logs",
-    "AI_Employee_Vault/watchers/__pycache__/base_watcher.cpython-314.pyc",
     "test.md",
     "AI_Employee_Vault/HOW_TO_VERIFY.md",
     "AI_Employee_Vault/watchers/Inbox/test_file.md",
@@ -203,7 +212,6 @@
     "AI_Employee_Vault/Needs_Action/FILEDROP_test_file2.txt_20260225_005104.md",
     "QWEN.md",
     "AI_Employee_Vault/watchers/Needs_Action/FILEDROP_test_document.txt_20260225_010839.md",
-    "AI_Employee_Vault/Dashboard.md",
     "AI_Employee_Vault/TEST_REPORT.md",
     "test_file.md"
   ]

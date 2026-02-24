@@ -17,3 +17,31 @@
 2026-02-25 02:36:07,210 - FileSystemWatcher - INFO - Processed file: test.txt -> FILEDROP_test.txt_20260225_023607.md
 2026-02-25 02:40:21,208 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
 2026-02-25 02:40:21,212 - FileSystemWatcher - INFO - FileSystemWatcher shutdown complete
+2026-02-25 02:44:37,986 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:44:37,987 - FileSystemWatcher - INFO - Mode: event-driven
+2026-02-25 02:44:37,987 - FileSystemWatcher - INFO - Starting FileSystemWatcher (event-driven mode)
+2026-02-25 02:44:37,987 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:44:37,989 - FileSystemWatcher - INFO - Watching: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:44:37,990 - FileSystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-02-25 02:45:22,921 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-02-25 02:45:22,925 - FileSystemWatcher - INFO - FileSystemWatcher shutdown complete
+2026-02-25 02:47:54,088 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:47:54,089 - FileSystemWatcher - INFO - Mode: event-driven
+2026-02-25 02:47:54,089 - FileSystemWatcher - INFO - Starting FileSystemWatcher (event-driven mode)
+2026-02-25 02:47:54,089 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:47:54,092 - FileSystemWatcher - INFO - Watching: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 02:47:54,092 - FileSystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-02-25 02:50:05,200 - FileSystemWatcher - INFO - File created: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox\test-2.txt
+2026-02-25 02:50:07,221 - FileSystemWatcher - INFO - Created action file: FILEDROP_test-2.txt_20260225_025007.md
+2026-02-25 02:50:07,223 - FileSystemWatcher - INFO - Processed file: test-2.txt -> FILEDROP_test-2.txt_20260225_025007.md
+2026-02-25 02:55:27,798 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-02-25 02:55:27,803 - FileSystemWatcher - INFO - FileSystemWatcher shutdown complete
+2026-02-25 03:02:29,027 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 03:02:29,028 - FileSystemWatcher - INFO - Mode: event-driven
+2026-02-25 03:02:29,028 - FileSystemWatcher - INFO - Starting FileSystemWatcher (event-driven mode)
+2026-02-25 03:02:29,028 - FileSystemWatcher - INFO - Drop folder: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 03:02:29,030 - FileSystemWatcher - INFO - Watching: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-25 03:02:29,030 - FileSystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-02-25 03:03:18,434 - FileSystemWatcher - INFO - File created: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox\test-2.txt
+2026-02-25 03:03:18,545 - FileSystemWatcher - INFO - Created action file: FILEDROP_test-2.txt_20260225_030318.md
+2026-02-25 03:03:18,546 - FileSystemWatcher - INFO - Processed file: test-2.txt -> FILEDROP_test-2.txt_20260225_030318.md

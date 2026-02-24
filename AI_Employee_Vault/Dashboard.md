@@ -14,7 +14,7 @@ version: 0.1.0
 | ----------------- | ----- |
 | Pending Items     | 0     |
 | Awaiting Approval | 0     |
-| Completed Today   | 0     |
+| Completed Today   | 2     |
 | Active Projects   | 0     |
 
 ## 📥 Inbox Status
@@ -35,7 +35,7 @@ version: 0.1.0
 ## ✅ Recent Completions
 
 <!-- Recently completed tasks -->
-- No items in `/Done` (today)
+- **2026-02-25** — Processed 2 file drops: `test.txt` (17 B, casual message) and `test-2.txt` (empty file)
 
 ## 💰 Financial Summary
 
