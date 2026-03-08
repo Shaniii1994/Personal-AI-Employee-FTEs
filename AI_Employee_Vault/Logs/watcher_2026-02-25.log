@@ -45,3 +45,5 @@
 2026-02-25 03:03:18,434 - FileSystemWatcher - INFO - File created: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox\test-2.txt
 2026-02-25 03:03:18,545 - FileSystemWatcher - INFO - Created action file: FILEDROP_test-2.txt_20260225_030318.md
 2026-02-25 03:03:18,546 - FileSystemWatcher - INFO - Processed file: test-2.txt -> FILEDROP_test-2.txt_20260225_030318.md
+2026-02-25 03:05:53,232 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-02-25 03:05:53,241 - FileSystemWatcher - INFO - FileSystemWatcher shutdown complete
