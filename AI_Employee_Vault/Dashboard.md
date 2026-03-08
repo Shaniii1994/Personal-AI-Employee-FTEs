@@ -59,28 +59,45 @@ No active projects tracked yet.
 
 | Component           | Status        |
 | ------------------- | ------------- |
-| Gmail Watcher       | ⚪ Not Started |
-| WhatsApp Watcher    | ⚪ Not Started |
+| Gmail Watcher       | ⚪ Not Configured |
+| WhatsApp Watcher    | ⚪ Not Configured |
 | FileSystem Watcher  | ✅ Running     |
+| LinkedIn Poster     | ⚪ Not Configured |
+| Email MCP           | ⚪ Not Configured |
+| Approval Workflow   | ✅ Ready       |
+| Task Scheduler      | ⚪ Not Configured |
 | Qwen Code           | ✅ Ready       |
-| Ralph Wiggum Plugin | ✅ Installed   |
+| Plan Creator        | ✅ Ready       |
 
 ---
 
 ## 🚀 Quick Commands
 
+### Bronze Tier
 ```bash
-# Process pending items
+# Process pending file drops
 qwen "Check /Needs_Action and process all pending items"
 
 # Generate daily briefing
 qwen "Generate daily briefing from Dashboard and recent activity"
+```
 
-# Start Ralph loop for autonomous work
-qwen --plugin ralph_wiggum "Process all files in /Needs_Action, move to /Done when complete"
+### Silver Tier
+```bash
+# Process with approval workflow
+qwen "Process Needs_Action, create approval requests for sensitive actions"
+
+# Execute approved actions
+qwen "Check /Approved folder and execute all approved actions"
+
+# Create plan for complex task
+qwen "Create Plan.md for processing client onboarding"
+
+# Daily briefing with full audit
+qwen "Generate daily briefing including pending approvals and priorities"
 ```
 
 ---
 
 *Last generated: 2026-02-25*
-*AI Employee v0.1.0 (Bronze Tier)*
+*AI Employee v0.2.0 (Silver Tier)*

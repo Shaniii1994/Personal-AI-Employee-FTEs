@@ -1,0 +1,4 @@
+2026-03-08 21:44:17,796 - GmailWatcher - INFO - Credentials: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\credentials.json
+2026-03-08 21:44:17,796 - GmailWatcher - INFO - Token: C:\Users\shani\Documents\Personal-AI-Employee-FTEs\token.json
+2026-03-08 21:44:17,797 - GmailWatcher - INFO - Query: is:unread is:important
+2026-03-08 21:44:18,072 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=549542080700-3s497jf15ugkqo8c55bvtiab3r8auljh.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A64484%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail_readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail_labels+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail_modify&state=3LM1xpoRblQChs4lusYk8akPyiiTDF&code_challenge=y442ieNoL2pmc5pdp7VFzzyAwkKUjw7SJrx-G3a4yTo&code_challenge_method=S256&access_type=offline
